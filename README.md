@@ -1,6 +1,6 @@
 # Lazer Blast
 
-Having a blast playing with Lazer :D
+Having a blast experimenting with [Lazer](https://github.com/photonstorm/lazer) :D
 
 ## Installation
 
