@@ -14,4 +14,5 @@ It's setup as a local dependency for npm, so just
 
 ### Notes
 ES2015 compiled on the fly using Babel (all handled by JSPM)
+
 config.js modified to point the "lazer" package to the src folder in the repo
